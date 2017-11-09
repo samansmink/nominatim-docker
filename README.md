@@ -22,17 +22,6 @@ How to use
   ```
   If this succeeds, open [http://localhost:8080/](http:/localhost:8080) in a web browser
 
-# Running
-
-You can run Docker image from docker hub.
-
-```
-docker run --restart=always -d -p 8080:8080 --name nominatim mediagis/nominatim:latest
-```
-Service will run on [http://localhost:8080/](http:/localhost:8080)
-
-
-
 
 
 Forked from https://github.com/mediagis/nominatim-docker
