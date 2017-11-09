@@ -6,7 +6,7 @@ How to use
 2. Clone repository
 
   ```
-  # git clone git@github.com:mediagis/nominatim-docker.git
+  # git clone git@github.com:samansmink/nominatim-docker.git
   # cd nominatim-docker/2.5
   ```
 
